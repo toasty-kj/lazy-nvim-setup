@@ -1,0 +1,12 @@
+{
+  "lazy.nvim": { "branch": "main", "commit": "9a374a0fb4d3ac42dac4a129d4bead7252473c77" },
+  "neoconf.nvim": { "branch": "main", "commit": "57422353819051a67582d268d1557ed56d03d3a3" },
+  "neodev.nvim": { "branch": "main", "commit": "46aa467dca16cf3dfe27098042402066d2ae242d" },
+  "noice.nvim": { "branch": "main", "commit": "1df01e495b3ac0e2f5f111eba759691a9c21bb72" },
+  "nui.nvim": { "branch": "main", "commit": "61574ce6e60c815b0a0c4b5655b8486ba58089a1" },
+  "nvim-notify": { "branch": "master", "commit": "d333b6f167900f6d9d42a59005d82919830626bf" },
+  "plenary.nvim": { "branch": "master", "commit": "a3e3bc82a3f95c5ed0d7201546d5d2c19b20d683" },
+  "ripgrep": { "branch": "master", "commit": "71d71d2d98964653cdfcfa315802f518664759d7" },
+  "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
+  "which-key.nvim": { "branch": "main", "commit": "83476a1206b48c9d331084b9fbdb267be050fcc1" }
+}
